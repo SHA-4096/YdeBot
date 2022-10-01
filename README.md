@@ -1,6 +1,6 @@
 # YdeBot
 for BingYan Studio
-# Day1
+# Day1h
 ## 了解了API是什么
 一开始我还以为API是指的GUI（
 ## 了解了如何使用Flask
