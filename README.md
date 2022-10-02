@@ -29,4 +29,5 @@ for BingYan Studio
 ## 明白了如何用requests取得HTTP中的响应数据
 btw之前以为白写了的content_gen现在居然在提取文件名时又发挥作用了，还好之前没有直接删掉（
 ## 实现了取消收藏的功能（Stage2 v2.0）
-
+### (23:36)
+## 实现了ban和unban的功能（Stage2 v3.0）
