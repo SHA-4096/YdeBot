@@ -24,4 +24,4 @@ for BingYan Studio
 # Day3
 ## 学会了MySql的基本语法，以及其与python的连接
 ### (11:01)
-成功用数据库实现了群图片库功能
+成功用数据库实现了群图片库功能（Stage2 v1.0）
